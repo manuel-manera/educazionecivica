@@ -1,1 +1,1 @@
-Inserite qui le fotografie del progetto. Poi aggiornate i percorsi src nelle pagine HTML, ad esempio foto/eolico.jpg.
+NIENTE, ALLAFINE HO OPTATO PER LE FOTO VIA URL MA ERO TROPPO PIGRO PER RIMUOVERE LA CARTELLA E IL README
